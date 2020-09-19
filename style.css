@@ -7,7 +7,6 @@
 
 body{
     height: 300vh;
-
     background: linear-gradient(to right, #4286f4, #373B44);
 }
 .container{
@@ -17,15 +16,12 @@ body{
     border: 2px rgba(255, 255, 255, 0.589) solid;
     border-radius: 10px 10px 10px 10px;
     margin-top: 20vh;
-    
 }
 
 .container{
  
     background: linear-gradient(to right, #4A00E0, #8E2DE2);  
-    ;
-
-   padding-top: 25px;
+    padding-top: 25px;
     text-align: center;
 }
 
